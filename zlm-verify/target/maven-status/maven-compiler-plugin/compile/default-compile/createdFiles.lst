@@ -1,0 +1,7 @@
+com\zenyone\verify\config\LicenseVerifyProperties.class
+com\zenyone\verify\listener\LicenseVerifyInstallListener.class
+com\zenyone\verify\util\Base64Util.class
+com\zenyone\verify\config\LicenseInterceptorConfig.class
+com\zenyone\verify\config\LicenseVerifyAutoConfigure.class
+com\zenyone\verify\interceptor\LicenseVerifyInterceptor.class
+com\zenyone\verify\annotion\VLicense.class
